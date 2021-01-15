@@ -1,0 +1,59 @@
+Note these are the controls on pro-controller (to find in code type _ press (ex. "B press"))
+
+A:
+	1) confirm on menu screens
+	2) confirm choice of pocket/ball to call
+
+B:
+	1) in cue mode, set to call and reset variables
+	2) go back to calling ball (from choosing pocket or after choosing pocket)
+	3) go back to choosing big angle (from fine angle adjustment)
+
+Y:
+	1) make aiming faster if rotation aiming
+
+R1:
+	1) when calling a ball, if table open, swap ball group
+	2) clockwise rotation for rotation aiming
+
+L1:
+	1) when calling a ball, if table open, swap ball group
+	2) counterclockwie rotation for rotation aiming
+
+R2:
+	1) shoot pool ball in cue
+	2) lock in angle (both big and fine)
+
+L2:
+	1) place the cueball
+	if aim type is stick
+		2) go back to big angle adjustment from fine
+		3) go to fine angle adjustment from power
+	if aim type is rotation
+		4) go back to angle choosing from power
+
+Start:
+	1) when in active tree, pull up pause menu
+
+Right Stick movement: (actually ctrl f that not press)
+
+Left Stick movement:
+	1) movement on scratch
+	2) choose big angle
+
+Directions:
+	1) navigating pause and scratch choice menus
+	2) navigate pocket/ball choice
+
+
+
+
+
+
+
+
+Dev Commands (not noted in comment just ctrl f for dev_commands function:
+	keyboard m, controller b: new ball
+	keyboard 1, controller x: new ball 1
+	keyboard 2, controller y: new ball 2
+	keyboard r, controller start: reset
